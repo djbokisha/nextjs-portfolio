@@ -19,8 +19,8 @@ function Contact() {
             placeholder="message"
             name=""
             id=""
-            cols="30"
-            rows="10"
+            cols={30}
+            rows={10}
           ></textarea>
           <Button url="#" text="Send" />
         </form>
