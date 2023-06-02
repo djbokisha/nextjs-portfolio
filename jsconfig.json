@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "moduleResolution": "node",
+    "jsx": "react",
     "paths": {
       "@/*": ["./src/*"]
     }
